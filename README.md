@@ -1,6 +1,7 @@
 # Leetcode-Progress
 
 A daily record of my LeetCode practice.
+Leetcode id : https://leetcode.com/u/angelala960520/
 
 ## Progress
 
