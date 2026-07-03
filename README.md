@@ -4,8 +4,6 @@ A daily record of my LeetCode practice.
 
 ## Progress
 
-## Progress
-
 | Date | Problem | Difficulty | Language | Notes |
 |------|---------|------------|----------|-------|
 | 2026.07.03 | 1. Two Sum | Easy | C++ | |
