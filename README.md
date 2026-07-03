@@ -2,7 +2,7 @@
 
 A personal collection of my LeetCode solutions, organized by difficulty.
 
-LeetCode profile: https://leetcode.com/u/angela1a960520/
+LeetCode profile: https: https://leetcode.com/u/angelala960520/
 
 ## Repository Structure
 
