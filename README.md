@@ -1,10 +1,13 @@
-# Leetcode-Progress
+# LeetCode Progress
 
-Leetcode id : https://leetcode.com/u/angelala960520/
+A personal collection of my LeetCode solutions, organized by difficulty.
 
-## Progress
+LeetCode profile: https://leetcode.com/u/angela1a960520/
 
-| Date | Problem | Difficulty | Language |
-|------|---------|------------|----------|
-| 2026.07.03 | 1. Two Sum | Easy | C++ |
-| 2026.07.04 | 2. Add Two Numbers | medium | C++ |
+## Repository Structure
+
+```text
+Leetcode-Progress/
+├── Easy/
+├── Medium/
+└── Hard/
