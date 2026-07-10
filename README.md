@@ -7,7 +7,7 @@ LeetCode profile: https: https://leetcode.com/u/angelala960520/
 ## Repository Structure
 
 ```text
-Leetcode-Progress/
-├── Easy/
-├── Medium/
-└── Hard/
+Leetcode-Progress
+├── Easy
+├── Medium
+└── Hard
